@@ -4,4 +4,4 @@ This Tutorial is based on a tutorial that was originally created by [Sage Boettc
 
 The tutorial was created for a [seminar on research methods](https://www.scenegrammarlab.com/teaching/from-0-to-1/) in psychology @ Goethe-University Frankfurt. 
 
-It is a step-by-step guide through building a visual search experiment in the PsychoPy Builder using real world scenes, using mouse tracking.
+It is a step-by-step guide through building a visual search experiment in the PsychoPy Builder using real world scenes and mouse tracking.

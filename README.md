@@ -1,2 +1,3 @@
-# Psychopy_Tutorial
-Tutorial on how to build a visual search experiment in the psychopy builder.
+# Psychopy Tutorial
+
+This Tutorial is based on a tutorial that was originally created by [Sage Boettcher](https://sageboettcher.jimdofree.com) for [Open Sesame](https://osdoc.cogsci.nl) and adapted by me to be used in [PsychoPy](https://www.psychopy.org). The tutorial was created for a [seminar on research methods](https://www.scenegrammarlab.com/teaching/from-0-to-1/) in psychology @ Goethe-University Frankfurt. 
